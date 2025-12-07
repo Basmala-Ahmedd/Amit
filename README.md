@@ -1,6 +1,3 @@
-# Amit
-My First Repo.
-
 # Amit Repository
 
 ## Project Overview
