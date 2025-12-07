@@ -11,3 +11,5 @@ Machine Learning.
 ## Getting Started
 To get started with this project, clone the repository and
 navigate to the `python-for-ml` folder
+
+ `For_test.py`: Basic Python script used for testing the project environment.
